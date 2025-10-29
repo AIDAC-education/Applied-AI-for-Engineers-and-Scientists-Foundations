@@ -21,7 +21,7 @@ After completing this specialization, students will be able to:
 ## 📺 Course Resources
 
 - 🎥 **Full YouTube Playlist:**  
-  [Machine Learning and Its Applications – Full Series](https://www.youtube.com/watch?v=bLKBAXafEPA&list=PLkymjO6adQ1OcxZjRiPqmqqEhuqw_crZA)
+  [Machine Learning and Its Applications – Full Series]([https://www.youtube.com/watch?v=bLKBAXafEPA&list=PLkymjO6adQ1OcxZjRiPqmqqEhuqw_crZA](https://www.youtube.com/@Fish-Captain/playlists))
 
 - 🎬 **Specialization Introduction Video:**  
   [Watch on Google Drive](https://drive.google.com/file/d/1Muc64F_yzpHv7DYetnfRNrcdpsxPpQSJ/view)
